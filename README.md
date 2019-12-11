@@ -5,6 +5,6 @@ This shows our analyis of inpatient data from over 3000 patients. We preprocesse
 RUN on Jupyter Notobook
 
 Dependencies:
-Jupyter Notebook
-Python3
+Jupyter Notebook,
+Python3,
 Anaconda
